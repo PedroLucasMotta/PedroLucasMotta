@@ -1,7 +1,7 @@
 ### Oi, meu nome é Pedro! 👋
 - 🔭 Atualmente não estou trabalhando. Estou procurando oportunidades para a entrada no mundo digital.
-- 🌱 Estou em constante evolução nos meus estudo, me aperfeiçoando nas áreas mais desejadas do mercado.
-- 👯 Procurando vagas para inicio imediato, seja remunerado ou volutário!
+- 🌱 Estou em constante evolução nos meus estudos, me aperfeiçoando nas áreas mais desejadas do mercado.
+- 👯 Procurando vagas para início imediato, seja remunerado ou volutário!
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucasMotta&show_icons=true&theme=transparent"/>
