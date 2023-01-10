@@ -1,7 +1,8 @@
 ### Oi, meu nome é Pedro! 👋
 - 🔭 Atualmente não estou trabalhando. Estou procurando oportunidades para a entrada no mundo digital.
 - 🌱 Estou em constante evolução nos meus estudos, me aperfeiçoando nas áreas mais desejadas do mercado.
-- 👯 Procurando vagas para início imediato, seja remunerado ou volutário!
+- 👯 Procurando vagas para início imediato.
+- 📝 <a href="https://my-portfolio-pl.netlify.app">Clique aqui e confira meu portfólio!</a>
 
 <div>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLucasMotta&show_icons=true&theme=transparent"/>
