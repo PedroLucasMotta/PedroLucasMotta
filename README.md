@@ -4,8 +4,8 @@
 - 👯 Procurando vagas para início imediato, seja remunerado ou volutário!
 
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroLucasMotta&show_icons=true&theme=transparent"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLucasMotta&show_icons=true&theme=transparent&layout=compact"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroLucasMotta&show_icons=true&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroLucasMotta&show_icons=true&theme=transparent&layout=compact"/>
 </div>
 
 <div>
